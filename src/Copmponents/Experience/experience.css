@@ -1,0 +1,40 @@
+.experience h1{
+    text-align: left;
+    width: 100%;
+    font-size: 30px;
+    font-weight: 300;
+}
+.experience h1 span{
+    background: linear-gradient(270deg, #9395d3 10%, #eb5e28 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.experience h4{
+    text-align: left;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 300;
+}
+.experience ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 20px;
+    list-style-type:circle;
+}
+.experience ul li{
+    
+    text-align: left;
+    width: 80%;
+    font-size: 15px;
+    font-weight: 200;
+}
+.experience hr{
+    outline: none;
+    border: none;
+    margin:10px 0 ;
+    width: 90%;
+    height: 5px;
+    border-radius: 50px;
+    background: linear-gradient(264deg, #9395d3 -5.09%, #eb5e28 106.28%);
+}

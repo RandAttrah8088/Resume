@@ -1,0 +1,32 @@
+.skills h1{
+    text-align: left;
+    width: 100%;
+    font-size: 30px;
+    font-weight: 300;
+}
+.skills h1 span{
+    background: linear-gradient(270deg, #9395d3 10%, #eb5e28 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.skills ul{
+        margin: 0;
+        padding: 20px;
+        list-style-type:circle;
+}
+.skills ul li{
+    text-align: left;
+    width: 80%;
+    font-size: 15px;
+    font-weight: 200;
+}
+.skills hr{
+    outline: none;
+    border: none;
+    margin:10px 0 ;
+    width: 90%;
+    height: 5px;
+    border-radius: 50px;
+    background: linear-gradient(264deg, #9395d3 -5.09%, #eb5e28 106.28%);
+}
